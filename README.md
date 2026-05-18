@@ -20,13 +20,13 @@
 | ⚙️ [configs/](./configs/) | 常用开发配置文件 |
 
 ## 📈 学习进度
-- [x] Vue3基础与Composition API
-- [x] Pinia状态管理
-- [x] Element Plus组件库
-- [x] Vite构建工具
-- [x] React基础与Hooks
-- [x] React Router v6
-- [x] ECharts高级用法
+- [ ] Vue3基础与Composition API
+- [ ] Pinia状态管理
+- [ ] Element Plus组件库
+- [ ] Vite构建工具
+- [ ] React基础与Hooks
+- [ ] React Router v6
+- [ ] ECharts高级用法
 - [ ] OpenLayers深入学习
 - [ ] TypeScript基础
 - [ ] 前端工程化
@@ -54,11 +54,11 @@
 - **代码地址**：[./projects/react-movie-search/](./projects/react-movie-search/)
 
 ## 📞 联系方式
-- 📧 邮箱：[你的邮箱]
-- 💬 微信：[你的微信号]
+- 📧 邮箱：2330577835@qq.com
+- 💬 微信：qiongkaixin-1
 - 💼 BOSS直聘：[你的BOSS直聘主页链接]
-- 🐙 GitHub：https://github.com/[你的GitHub用户名]/frontend-learning-journey
-- 🐙 Gitee镜像：https://gitee.com/[你的Gitee用户名]/frontend-learning-journey（国内访问更快）
+- 🐙 GitHub：https://github.com/dontkonw123/frontend-learning-journey
+- 🐙 Gitee镜像：https://gitee.com/Waxiaoyu/frontend-learning-journey（国内访问更快）
 
 ## 📅 更新日志
 - 2026-05-18：初始化仓库，创建目录结构和基础配置
